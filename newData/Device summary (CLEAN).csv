@@ -1,4 +1,4 @@
-Devices,Substrate Temperature (C),Speed (mm/s),Head-substrate distance (cm),Pressure (MPa),Efficiency (%)
+Temperature,Speed,Distance,Pressure,Efficiency
 1,70,100,7,0,1.34
 2,70,100,7,0,1.8
 3,70,100,7,0,1.86
